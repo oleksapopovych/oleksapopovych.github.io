@@ -8,3 +8,8 @@ Sherlock Holmes is a fictional private detective created by British author Sir A
 * Ability to remain practical
 * Highly obesrvent
 * Addicted to drugs 
+
+As Sherlock Holmes once said:
+
+> I’m not a psychopath, I’m a high-function 
+> sociopath, do your research.
