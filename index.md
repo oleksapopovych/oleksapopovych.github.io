@@ -14,9 +14,4 @@ As Sherlock Holmes once said:
 > I’m not a psychopath, I’m a high-function 
 > sociopath, do your research.
 
-<!DOCTYPE html>
-<html>
-   <body>
-        <img src="https://anakarenina.com/wp-content/uploads/2019/08/cumberbatch-holmesjpg.jpeg">
-    </body>
-</html>
+<img src="https://anakarenina.com/wp-content/uploads/2019/08/cumberbatch-holmesjpg.jpeg"/>
